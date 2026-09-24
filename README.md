@@ -18,4 +18,4 @@ Open to my first full-time role as a developer.
 - A remotely controlled boat for collecting waste from enclosed water bodies, built by a small team from concept to water testing; awarded at a national technical innovation olympiad.
 - A web portal with a 360° virtual walk through a historic site, preserving local stories; awarded as one of the best social projects in a national competition.
 
-Outside of code: dubbing and psychology, usually with a cup of green tea.
+Outside of code: dubbing, psychology, tabletop RPGs and cycling (with way too much heart rate data from my watch).
