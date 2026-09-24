@@ -9,17 +9,6 @@ Open to my first full-time role as a developer.
 **Frontend:** Vue.js · Tailwind CSS · Firebase · Node.js  
 **Tools:** Linux · Git · Docker · Selenium · CMake · Maven
 
-#### Projects
-
-| Project | Description |
-| --- | --- |
-| [LibreReader](https://github.com/Srb404/LibreReader) | Terminal glucose monitor for FreeStyle Libre sensors |
-| [forest-fire](https://github.com/Srb404/forest-fire) | Drossel-Schwabl forest fire model in the terminal (C) |
-| [nbblcore-neo](https://github.com/Srb404/nbblcore-neo) | Paper plugin for timed team challenges on Minecraft servers |
-| [AssemblyCounter](https://github.com/Srb404/AssemblyCounter) | String length counter in x86-64 NASM |
-| [SeleniumWikipedia](https://github.com/Srb404/SeleniumWikipedia) | Selenium + TestNG end-to-end tests |
-| [RadioPlayer](https://github.com/Srb404/RadioPlayer) | Tray radio player (Python), deployed for daily use during my internship |
-
 #### Earlier work
 
 - A remotely controlled boat for collecting waste from enclosed water bodies, built by a small team from concept to water testing; awarded at a national technical innovation olympiad.
