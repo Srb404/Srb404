@@ -11,5 +11,6 @@ Open to my first full-time role as a developer.
 
 #### Earlier work
 
+- First-line technical support at a radio station: diagnosing hardware and software issues, administering operating systems and network infrastructure. Built two Python tools used there daily: a news aggregation service and a desktop radio player app.
 - A remotely controlled boat for collecting waste from enclosed water bodies, built by a small team from concept to water testing; awarded at a national technical innovation olympiad.
 - A web portal with a 360° virtual walk through a historic site, preserving local stories; awarded as one of the best social projects in a national competition.
