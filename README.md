@@ -20,4 +20,4 @@ Open to my first full-time role as a developer.
 
 Outside of code: dubbing, psychology, tabletop RPGs and cycling (with way too much heart rate data from my watch).
 
-**Contact:** [contact@srb404.net](mailto:contact@srb404.net)
+**Website:** [srb404.net](https://srb404.net) · **Contact:** [contact@srb404.net](mailto:contact@srb404.net)
